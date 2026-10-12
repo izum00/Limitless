@@ -6,7 +6,7 @@ window.paintmod = {};
 window.paintmod.settings = {};
 //Defaults for settings
 window.paintmod.settings.defaults = {
-	nocanvasbounds: true,
+	nocanvasbounds: false,
 	fonts: true,
 	defaultcolor: "#000000",
 	nopasteoffset: true,
