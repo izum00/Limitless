@@ -10,7 +10,7 @@ window.paintmod.settings.defaults = {
 	fonts: true,
 	defaultcolor: "#000000",
 	nopasteoffset: true,
-	zoomfactor: 1500,
+	zoomfactor: 150,
 	ctrlrotate: true,
 	shiftpoints: true,
 	swatches: true,
